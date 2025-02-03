@@ -1,0 +1,25 @@
+[
+    {
+      "id": "68x51",
+      "type": "AMMO",
+      "name": { "str": "6.8x51mm Hybrid" },
+      "description": "A mil-spec 6.8x51mm Common (.277 FURY) rifle round with bi-metallic case (stainless steel base coupled to a brass body), manufactured by SIG Sauer. Provides a higher velocity, more energy hitting being transferred to the target, and a lighter cartridge than 5.56x45, and hits harder than 7.62x51, while also having a great penetration power against modern body armor.",
+      "weight": "9 g",
+      "volume": "250 ml",
+      "price": "180 cent",
+      "price_postapoc": "10 USD",
+      "material": [ "steel", "brass", "powder" ],
+      "symbol": "=",
+      "color": "yellow",
+      "count": 20,
+      "stack_size": 20,
+      "ammo_type": "68x51",
+      "casing": "68x51_casing",
+      "range": 65,
+      "damage": { "damage_type": "bullet", "amount": 60, "armor_penetration": 41 },
+      "//": "Compared to .308, +5 damage, +17 AP, -1 Dispersion, +500 recoil, + NEVER_MISFIRES. More accurate than 7.62, more energy, more damage.",
+      "dispersion": 4,
+      "recoil": 3500,
+      "effects": [ "COOKOFF", "NEVER_MISFIRES" ]
+    }
+  ]

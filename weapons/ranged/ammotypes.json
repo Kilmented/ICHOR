@@ -1,0 +1,8 @@
+[
+    {
+        "type": "ammunition_type",
+        "id": "68x51",
+        "name": "6.8x51mm",
+        "default": "68x51"
+      }
+  ]

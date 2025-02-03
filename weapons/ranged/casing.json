@@ -1,0 +1,12 @@
+[
+    {
+        "id": "68x51_casing",
+        "copy-from": "casing",
+        "looks_like": "223_casing",
+        "type": "GENERIC",
+        "name": { "str": "6.8x51mm Common casing" },
+        "description": "An empty casing from a 6.8x51mm Common round.",
+        "weight": "6 g",
+        "volume": "9ml"
+    }
+]

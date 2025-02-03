@@ -1,0 +1,31 @@
+[
+    {
+        "id": "belt68x51mm",
+        "copy-from": "belt308",
+        "type": "MAGAZINE",
+        "name": { "str": "6.8x51mm ammo belt" },
+        "ammo_type": "68x51",
+        "capacity": 200,
+        "count": 100,
+        "default_ammo": "68x51",
+        "linkage": "ammolink308"
+    },
+    {
+        "id": "ar10mag_20rd",
+        "looks_like": "stanag30",
+        "type": "MAGAZINE",
+        "name": { "str": "AR-10 magazine" },
+        "description": "A 20 round double stack box magazine for the AR-10 rifle.",
+        "weight": "300 g",
+        "volume": "500 ml",
+        "price": "30 USD",
+        "price_postapoc": "250 cent",
+        "material": "steel",
+        "symbol": "#",
+        "color": "light_gray",
+        "ammo_type": [ "308", "68x51"],
+        "capacity": 20,
+        "reliability": 9,
+        "flags": [ "MAG_COMPACT" ]
+      }
+]

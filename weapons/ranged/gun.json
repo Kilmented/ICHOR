@@ -1,0 +1,25 @@
+[
+    {
+        "id": "ICHORRCBRifle",
+        "copy-from": "rifle_auto",
+        "looks_like": "hk417_13",
+        "type": "GUN",
+        "name": { "str": "RCB M7" },
+        "description": "Similar to the AR-10, the M7 is a short-stroke gas piston operated, rotating bolt rifle chambered for 6.8x51mm rounds.",
+        "weight": "3290 g",
+        "volume": "2 L",
+        "barrel_length": "250 ml",
+        "price": "1200 USD",
+        "price_postapoc": "55 USD",
+        "material": [ "steel", "plastic" ],
+        "color": "dark_gray",
+        "ammo": "68x51",
+        "ranged_damage": { "damage_type": "bullet", "amount": 0 },
+        "dispersion": 150,
+        "durability": 7,
+        "min_cycle_recoil": 2700,
+        "built_in_mods": [ "folding_stock" ],
+        "default_mods": [ "rifle_scope", "suppressor" ],
+        "magazines": [ [ "68x51", [ "ar10mag_20rd" ] ] ]
+    }
+]
