@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "ICHOR",
+    "name": "<color_yellow>ICHOR</color>",
+    "authors": [ "Jaegurt" ],
+    "maintainers": [ "Jaegurt" ],
+    "description": "Mod focused on an alternate reality XEDRA that succeeded in containing their Cataclysm.",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+]
