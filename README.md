@@ -6,4 +6,5 @@ ICHOR is a modification for [Cataclysm: Bright Nights](https://docs.cataclysmbn.
 
 # LICENSE DETAILS:
 I.C.H.O.R (ICHOR)'s .JSON ASSETS (.json files) are protected underneath the [GNU GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
 I.C.H.O.R (ICHOR)'s MEDIA ASSETS (sprites, sounds, etc) are protected underneath the [CC-BY-SA-3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
